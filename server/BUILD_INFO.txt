@@ -1,0 +1,12 @@
+MetaCivic Research — Upper Limb Linux Dedicated Server
+Built UTC: 2026-09-26T07:45:03.7810140Z
+Unity: 2021.3.21f1
+Architecture: Linux x86-64
+Build subtarget: Dedicated Server
+Scene: Assets/MetaCivic/Scenes/research_upper_limb_Migrated.unity
+Executable: ResearchUpperLimbServer.x86_64
+Bayou bind address: 0.0.0.0
+Bayou protocol inside Render: plain WebSocket
+Bayou port: PORT environment variable; fallback 7773
+Public endpoint: wss://research-upper-limb-serverbuild.onrender.com:443
+Build size: 77596794 bytes
